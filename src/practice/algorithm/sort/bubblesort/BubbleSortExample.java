@@ -1,4 +1,4 @@
-package practice.algorithm.sort.bubble;
+package practice.algorithm.sort.bubblesort;
 
 import java.util.Arrays;
 

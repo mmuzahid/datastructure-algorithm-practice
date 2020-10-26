@@ -68,7 +68,7 @@ public class FibonacciLastDigitsPattern {
     public static void main(String[] args) {
 		printFibSquareLastDigits(200);
 		printFibLastDigits(200);
-
+		getModFrame(3);
     }
 }
 
